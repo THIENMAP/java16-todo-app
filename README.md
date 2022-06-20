@@ -1,2 +1,1 @@
-# java16-todo-app
-demo java16 todo app
+VESION :Todo app 1.0 snapshot
